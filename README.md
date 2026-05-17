@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ### Hi there! I'm Emanuel
 
-I am currently attending my Java Back-end Course with Develhope! 
+I am a Java backend developer and I'm currently studing computer engineering! 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Java Back-end Course  
-- Business practices on [Bearound](https://www.bearound.eu)
+- Studying computer engineering  
+- Business practices on [InCalabria](https://www.incalabria.net)
 
 #### 💪 Things I am challenging myself with:
 - Waking up earlier to make good use of the day
